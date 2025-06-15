@@ -1,3 +1,6 @@
 # demo-repo1
-this is my first git repository<br>
-Author- Tamzid
+
+
+<h1>this is my first git repository </h1> <br>
+Author- Tamzid (tamzidul haque) <br>
+
